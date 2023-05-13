@@ -1,0 +1,13 @@
+2023-04-05 22:15:53,741 - lr:1e-05,weight_decay:0.01,batch_size:20
+2023-04-05 22:15:53,741 - LSTM_RNN(
+  (lstm): LSTM(39, 256, num_layers=3, batch_first=True, dropout=0.5)
+  (batch_norm): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (lin): Linear(in_features=256, out_features=64, bias=True)
+  (output_layer): Linear(in_features=64, out_features=2, bias=True)
+)
+2023-04-05 22:15:53,742 - This is for user7
+2023-04-05 22:15:56,005 - Epoch:0/200,Train Accuracy:49.70149230957031%
+2023-04-05 22:15:58,080 - Epoch:1/200,Train Accuracy:52.31343460083008%
+2023-04-05 22:16:00,131 - Epoch:2/200,Train Accuracy:51.94029998779297%
+2023-04-05 22:16:02,220 - Epoch:3/200,Train Accuracy:55.44776153564453%
+2023-04-05 22:16:04,359 - Epoch:4/200,Train Accuracy:54.17910385131836%

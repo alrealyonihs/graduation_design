@@ -1,0 +1,9 @@
+use:ExtraTreesClassifier
+Num features: ,40
+20
+CV Accuracy: 0.92 (+/- 0.05)
+Test Accuracy: 0.79
+precision: 0.90
+recall_score: 0.65
+F1_score: 0.76
+auc: 0.92

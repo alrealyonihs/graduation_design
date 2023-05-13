@@ -1,0 +1,73 @@
+use:SVM
+Num features: ,40
+7,9,12,15,16,20,21,23,29,35
+CV Accuracy: 0.66 (+/- 0.18)
+Test Accuracy: 0.68
+precision: 0.82
+recall_score: 0.47
+F1_score: 0.60
+auc: 0.81
+7: 0.9801438262439223 threshold: 0.516086772525768
+CV Accuracy: 0.76 (+/- 0.07)
+Test Accuracy: 0.77
+precision: 0.84
+recall_score: 0.65
+F1_score: 0.74
+auc: 0.84
+9: 0.9999611805009656 threshold: 0.4867418720049676
+CV Accuracy: 0.60 (+/- 0.09)
+Test Accuracy: 0.53
+precision: 0.56
+recall_score: 0.26
+F1_score: 0.36
+auc: 0.56
+12: 0.6695004900961754 threshold: 0.4775038816119675
+CV Accuracy: 0.53 (+/- 0.06)
+Test Accuracy: 0.56
+precision: 0.78
+recall_score: 0.17
+F1_score: 0.28
+auc: 0.68
+15: 0.8986616977707902 threshold: 0.4885416382933153
+CV Accuracy: 0.58 (+/- 0.06)
+Test Accuracy: 0.56
+precision: 0.53
+recall_score: 0.99
+F1_score: 0.69
+auc: 0.61
+16: 0.8820954765578749 threshold: 0.5704147514265732
+CV Accuracy: 0.66 (+/- 0.09)
+Test Accuracy: 0.68
+precision: 0.83
+recall_score: 0.46
+F1_score: 0.60
+auc: 0.83
+20: 0.9678962742985803 threshold: 0.45576503432408383
+CV Accuracy: 0.58 (+/- 0.11)
+Test Accuracy: 0.52
+precision: 0.55
+recall_score: 0.25
+F1_score: 0.35
+auc: 0.56
+21: 0.5616113974049165 threshold: 0.4884595096706901
+CV Accuracy: 0.56 (+/- 0.03)
+Test Accuracy: 0.57
+precision: 0.54
+recall_score: 0.97
+F1_score: 0.69
+auc: 0.70
+23: 0.9135101561514348 threshold: 0.5144933636786267
+CV Accuracy: 0.61 (+/- 0.05)
+Test Accuracy: 0.63
+precision: 0.59
+recall_score: 0.88
+F1_score: 0.70
+auc: 0.70
+29: 0.977300297939655 threshold: 0.511939776189032
+CV Accuracy: 0.60 (+/- 0.09)
+Test Accuracy: 0.60
+precision: 0.56
+recall_score: 0.97
+F1_score: 0.71
+auc: 0.64
+35: 0.864694636115721 threshold: 0.505324614694382

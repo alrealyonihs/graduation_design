@@ -1,0 +1,33 @@
+use:KNeighborsClassifier
+Num features: ,40
+7,9,12,15,16,20,21,23,29,35
+CV Accuracy: 0.78 (+/- 0.09)
+Test Accuracy: 0.80
+7: 0.9998835415028968 threshold: 0.54
+CV Accuracy: 0.87 (+/- 0.05)
+Test Accuracy: 0.88
+9: 1.0 threshold: 0.72
+CV Accuracy: 0.66 (+/- 0.10)
+Test Accuracy: 0.58
+12: 0.8731281722809366 threshold: 0.49999999999999994
+CV Accuracy: 0.58 (+/- 0.08)
+Test Accuracy: 0.59
+15: 0.899379858502926 threshold: 0.5199999999999999
+CV Accuracy: 0.61 (+/- 0.07)
+Test Accuracy: 0.58
+16: 0.8455420657796412 threshold: 0.52
+CV Accuracy: 0.80 (+/- 0.07)
+Test Accuracy: 0.77
+20: 0.9977775836802826 threshold: 0.5149999999999988
+CV Accuracy: 0.60 (+/- 0.06)
+Test Accuracy: 0.64
+21: 0.9270096369406353 threshold: 0.5000000000000001
+CV Accuracy: 0.64 (+/- 0.05)
+Test Accuracy: 0.63
+23: 0.9378208674217059 threshold: 0.5200000000000001
+CV Accuracy: 0.63 (+/- 0.08)
+Test Accuracy: 0.67
+29: 0.9706087867936065 threshold: 0.5400000000000001
+CV Accuracy: 0.60 (+/- 0.08)
+Test Accuracy: 0.58
+35: 0.864073524131171 threshold: 0.5200000000000001

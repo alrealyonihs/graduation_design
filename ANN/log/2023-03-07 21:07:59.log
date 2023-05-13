@@ -1,0 +1,11 @@
+2023-03-07 21:07:59,497 - lr:1e-05,weight_decay:0.01,batch_size:20
+2023-03-07 21:07:59,498 - FullConnect(
+  (fc1): Linear(in_features=39, out_features=40, bias=True)
+  (relu1): ReLU()
+  (fc2): Linear(in_features=40, out_features=40, bias=True)
+  (tanh2): Tanh()
+  (fc3): Linear(in_features=40, out_features=30, bias=True)
+  (elu3): ELU(alpha=1.0)
+  (fc4): Linear(in_features=30, out_features=1, bias=True)
+)
+2023-03-07 21:07:59,498 - This is for user7

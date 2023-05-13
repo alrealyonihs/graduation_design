@@ -1,0 +1,6 @@
+2023-03-16 21:58:56,804 - lr:1e-05,weight_decay:0.01,batch_size:20
+2023-03-16 21:58:56,804 - LSTM_RNN(
+  (lstm): LSTM(39, 128, num_layers=3, batch_first=True)
+  (output_layers): Linear(in_features=39, out_features=2, bias=True)
+)
+2023-03-16 21:58:56,805 - This is for user7

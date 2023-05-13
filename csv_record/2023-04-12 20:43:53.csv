@@ -1,0 +1,33 @@
+use:RandomForestClassifier
+Num features: ,40
+7,9,12,15,16,20,21,23,29,35
+CV Accuracy: 0.88 (+/- 0.06)
+Test Accuracy: 0.91
+7: 1.0 threshold: 0.6220000000000001
+CV Accuracy: 0.95 (+/- 0.04)
+Test Accuracy: 0.96
+9: 1.0 threshold: 0.727
+CV Accuracy: 0.69 (+/- 0.09)
+Test Accuracy: 0.70
+12: 0.9949146456264982 threshold: 0.49700000000000005
+CV Accuracy: 0.72 (+/- 0.08)
+Test Accuracy: 0.63
+15: 0.957832319173921 threshold: 0.4740000000000203
+CV Accuracy: 0.66 (+/- 0.13)
+Test Accuracy: 0.72
+16: 0.99373065090595 threshold: 0.519
+CV Accuracy: 0.93 (+/- 0.04)
+Test Accuracy: 0.77
+20: 0.9995196086994497 threshold: 0.34500000000000003
+CV Accuracy: 0.75 (+/- 0.06)
+Test Accuracy: 0.73
+21: 0.9942304519560176 threshold: 0.4850000000003886
+CV Accuracy: 0.73 (+/- 0.10)
+Test Accuracy: 0.68
+23: 0.9257965275958114 threshold: 0.463
+CV Accuracy: 0.73 (+/- 0.10)
+Test Accuracy: 0.76
+29: 1.0 threshold: 0.52
+CV Accuracy: 0.68 (+/- 0.10)
+Test Accuracy: 0.70
+35: 0.9905425995477529 threshold: 0.5329999999996009

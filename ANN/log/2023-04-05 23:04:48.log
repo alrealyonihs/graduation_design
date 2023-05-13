@@ -1,0 +1,16 @@
+2023-04-05 23:04:48,434 - lr:1e-05,weight_decay:0.01,batch_size:20
+2023-04-05 23:04:48,434 - FullConnect(
+  (linear1): Linear(in_features=39, out_features=256, bias=True)
+  (linear2): Linear(in_features=256, out_features=256, bias=True)
+  (linear3): Linear(in_features=256, out_features=128, bias=True)
+  (linear4): Linear(in_features=128, out_features=128, bias=True)
+  (linear5): Linear(in_features=128, out_features=64, bias=True)
+  (linear6): Linear(in_features=64, out_features=64, bias=True)
+  (linear7): Linear(in_features=64, out_features=40, bias=True)
+  (linear9): Linear(in_features=40, out_features=40, bias=True)
+  (linear10): Linear(in_features=40, out_features=40, bias=True)
+  (linear11): Linear(in_features=40, out_features=40, bias=True)
+  (linear8): Linear(in_features=40, out_features=2, bias=True)
+  (relu): ReLU()
+)
+2023-04-05 23:04:48,434 - This is for user7

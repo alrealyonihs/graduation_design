@@ -1,0 +1,74 @@
+use:ExtraTreesClassifier
+Num features: ,40
+7,9,12,15,16,20,21,23,29,35
+CV Accuracy: 0.79 (+/- 0.09)
+Test Accuracy: 0.81
+precision: 0.78
+recall_score: 0.87
+F1_score: 0.82
+auc: 0.87
+7: 1.0 threshold: 0.611111111111111
+CV Accuracy: 0.87 (+/- 0.06)
+Test Accuracy: 0.87
+precision: 0.82
+recall_score: 0.96
+F1_score: 0.88
+auc: 0.93
+9: 1.0 threshold: 0.7111111111111111
+CV Accuracy: 0.66 (+/- 0.07)
+Test Accuracy: 0.61
+precision: 0.61
+recall_score: 0.62
+F1_score: 0.61
+auc: 0.65
+12: 0.9148251666812239 threshold: 0.5111111111111111
+CV Accuracy: 0.58 (+/- 0.07)
+Test Accuracy: 0.60
+precision: 0.58
+recall_score: 0.69
+F1_score: 0.63
+auc: 0.65
+15: 0.9275239953028407 threshold: 0.5142857142857142
+CV Accuracy: 0.62 (+/- 0.10)
+Test Accuracy: 0.61
+precision: 0.59
+recall_score: 0.70
+F1_score: 0.64
+auc: 0.64
+16: 0.8945322735610096 threshold: 0.5222222222222223
+CV Accuracy: 0.81 (+/- 0.08)
+Test Accuracy: 0.78
+precision: 0.76
+recall_score: 0.82
+F1_score: 0.79
+auc: 0.84
+20: 0.99689929251463 threshold: 0.49999999999999983
+CV Accuracy: 0.60 (+/- 0.04)
+Test Accuracy: 0.63
+precision: 0.61
+recall_score: 0.68
+F1_score: 0.64
+auc: 0.67
+21: 0.944978212556167 threshold: 0.5111111111111112
+CV Accuracy: 0.67 (+/- 0.08)
+Test Accuracy: 0.64
+precision: 0.61
+recall_score: 0.78
+F1_score: 0.69
+auc: 0.70
+23: 0.964480158383556 threshold: 0.5499999999999955
+CV Accuracy: 0.65 (+/- 0.11)
+Test Accuracy: 0.67
+precision: 0.64
+recall_score: 0.80
+F1_score: 0.71
+auc: 0.73
+29: 0.9708514086625712 threshold: 0.5513888888888706
+CV Accuracy: 0.62 (+/- 0.06)
+Test Accuracy: 0.61
+precision: 0.59
+recall_score: 0.73
+F1_score: 0.65
+auc: 0.65
+35: 0.9042759678186353 threshold: 0.5333333333333332
+Average_accuracy: 0.68

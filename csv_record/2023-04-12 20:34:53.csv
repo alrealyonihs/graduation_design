@@ -1,0 +1,33 @@
+use:GradientBoostingClassifier
+Num features: ,40
+7,9,12,15,16,20,21,23,29,35
+CV Accuracy: 0.88 (+/- 0.05)
+Test Accuracy: 0.91
+7: 1.0 threshold: 0.6671561820525386
+CV Accuracy: 0.96 (+/- 0.03)
+Test Accuracy: 0.97
+9: 1.0 threshold: 0.809104663861878
+CV Accuracy: 0.68 (+/- 0.10)
+Test Accuracy: 0.71
+12: 0.9927989829291253 threshold: 0.5022001450298947
+CV Accuracy: 0.72 (+/- 0.08)
+Test Accuracy: 0.63
+15: 0.9410622955910755 threshold: 0.4669480895284959
+CV Accuracy: 0.67 (+/- 0.09)
+Test Accuracy: 0.72
+16: 0.9864131753379722 threshold: 0.5118443187997104
+CV Accuracy: 0.93 (+/- 0.05)
+Test Accuracy: 0.79
+20: 0.996273328092701 threshold: 0.28856386387428384
+CV Accuracy: 0.74 (+/- 0.08)
+Test Accuracy: 0.72
+21: 0.9891693597694122 threshold: 0.4705242299079248
+CV Accuracy: 0.73 (+/- 0.11)
+Test Accuracy: 0.69
+23: 0.9520579186925593 threshold: 0.4618979289541652
+CV Accuracy: 0.75 (+/- 0.07)
+Test Accuracy: 0.79
+29: 0.9999902951252414 threshold: 0.5270422377733003
+CV Accuracy: 0.68 (+/- 0.06)
+Test Accuracy: 0.69
+35: 0.9953125454916004 threshold: 0.5165694902221645

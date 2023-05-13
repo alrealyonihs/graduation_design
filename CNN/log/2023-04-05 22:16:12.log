@@ -1,0 +1,24 @@
+2023-04-05 22:16:12,304 - lr:0.001,weight_decay:0.01,batch_size:20
+2023-04-05 22:16:12,304 - Multi_Scale_CNN(
+  (conv1): Conv1d(20, 20, kernel_size=(1,), stride=(1,))
+  (conv2): Conv1d(20, 20, kernel_size=(2,), stride=(1,))
+  (conv3): Conv1d(20, 20, kernel_size=(3,), stride=(1,))
+  (conv4): Conv1d(20, 20, kernel_size=(4,), stride=(1,))
+  (fc1): Linear(in_features=150, out_features=1000, bias=True)
+  (fc2): Linear(in_features=1000, out_features=2, bias=True)
+)
+2023-04-05 22:16:12,304 - This is for user7
+2023-04-05 22:16:12,706 - Epoch:0/50,Train Accuracy:51.11940383911133%
+2023-04-05 22:16:12,894 - Epoch:1/50,Train Accuracy:50.223880767822266%
+2023-04-05 22:16:13,084 - Epoch:2/50,Train Accuracy:51.7164192199707%
+2023-04-05 22:16:13,270 - Epoch:3/50,Train Accuracy:47.91044616699219%
+2023-04-05 22:16:13,455 - Epoch:4/50,Train Accuracy:47.91044616699219%
+2023-04-05 22:16:13,641 - Epoch:5/50,Train Accuracy:52.3880615234375%
+2023-04-05 22:16:13,829 - Epoch:6/50,Train Accuracy:52.835819244384766%
+2023-04-05 22:16:14,014 - Epoch:7/50,Train Accuracy:52.46268844604492%
+2023-04-05 22:16:14,196 - Epoch:8/50,Train Accuracy:50.37313461303711%
+2023-04-05 22:16:14,394 - Epoch:9/50,Train Accuracy:51.56716537475586%
+2023-04-05 22:16:14,578 - Epoch:10/50,Train Accuracy:52.98507308959961%
+2023-04-05 22:16:14,760 - Epoch:11/50,Train Accuracy:50.149253845214844%
+2023-04-05 22:16:14,953 - Epoch:12/50,Train Accuracy:50.82089614868164%
+2023-04-05 22:16:15,138 - Epoch:13/50,Train Accuracy:51.26865768432617%

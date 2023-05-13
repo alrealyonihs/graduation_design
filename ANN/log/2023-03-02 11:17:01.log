@@ -1,0 +1,9 @@
+2023-03-02 11:17:01,862 - lr:1e-05,weight_decay:0.01,batch_size:20
+2023-03-02 11:17:01,862 - FullConnect(
+  (linear1): Linear(in_features=39, out_features=40, bias=True)
+  (linear2): Linear(in_features=40, out_features=40, bias=True)
+  (linear3): Linear(in_features=40, out_features=30, bias=True)
+  (linear10): Linear(in_features=30, out_features=2, bias=True)
+  (relu): ReLU()
+)
+2023-03-02 11:17:01,862 - This is for user7

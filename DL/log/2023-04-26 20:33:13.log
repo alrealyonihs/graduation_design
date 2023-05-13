@@ -1,0 +1,39 @@
+2023-04-26 20:33:13,479 - lr:0.001,weight_decay:1e-06,batch_size:64
+2023-04-26 20:33:13,479 - LSTM_RNN(
+  (lstm): LSTM(33, 128, num_layers=3, batch_first=True, dropout=0.5)
+  (batch_norm): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (lin): Linear(in_features=128, out_features=64, bias=True)
+  (lin2): Linear(in_features=64, out_features=64, bias=True)
+  (output_layer): Linear(in_features=64, out_features=2, bias=True)
+  (relu): ReLU()
+)
+2023-04-26 20:33:13,479 - This is for user0
+2023-04-26 20:34:09,527 - Epoch:0/100,Train Accuracy:50.73154830932617%
+2023-04-26 20:34:55,353 - Epoch:1/100,Train Accuracy:50.814754486083984%
+2023-04-26 20:35:42,328 - Epoch:2/100,Train Accuracy:50.91529846191406%
+2023-04-26 20:36:30,419 - Epoch:3/100,Train Accuracy:51.02798080444336%
+2023-04-26 20:37:16,932 - Epoch:4/100,Train Accuracy:50.891029357910156%
+2023-04-26 20:38:08,080 - Epoch:5/100,Train Accuracy:50.823421478271484%
+2023-04-26 20:38:55,158 - Epoch:6/100,Train Accuracy:50.81128692626953%
+2023-04-26 20:39:41,750 - Epoch:7/100,Train Accuracy:50.80261993408203%
+2023-04-26 20:40:28,145 - Epoch:8/100,Train Accuracy:50.79915237426758%
+2023-04-26 20:41:13,352 - Epoch:9/100,Train Accuracy:50.83209228515625%
+2023-04-26 20:41:58,415 - Epoch:10/100,Train Accuracy:50.58766555786133%
+2023-04-26 20:42:43,605 - Epoch:11/100,Train Accuracy:50.56686019897461%
+2023-04-26 20:43:29,342 - Epoch:12/100,Train Accuracy:50.797420501708984%
+2023-04-26 20:44:14,642 - Epoch:13/100,Train Accuracy:50.8702278137207%
+2023-04-26 20:45:00,549 - Epoch:14/100,Train Accuracy:50.575531005859375%
+2023-04-26 20:45:45,485 - Epoch:15/100,Train Accuracy:51.07478332519531%
+2023-04-26 20:46:29,947 - Epoch:16/100,Train Accuracy:50.80955505371094%
+2023-04-26 20:47:15,272 - Epoch:17/100,Train Accuracy:50.851158142089844%
+2023-04-26 20:48:00,074 - Epoch:18/100,Train Accuracy:50.97943878173828%
+2023-04-26 20:48:45,254 - Epoch:19/100,Train Accuracy:50.87716293334961%
+2023-04-26 20:49:30,836 - Epoch:20/100,Train Accuracy:50.67780685424805%
+2023-04-26 20:50:15,953 - Epoch:21/100,Train Accuracy:50.28776550292969%
+2023-04-26 20:51:01,672 - Epoch:22/100,Train Accuracy:50.68647384643555%
+2023-04-26 20:51:47,336 - Epoch:23/100,Train Accuracy:50.70207595825195%
+2023-04-26 20:52:32,099 - Epoch:24/100,Train Accuracy:50.74888229370117%
+2023-04-26 20:53:17,637 - Epoch:25/100,Train Accuracy:50.57032775878906%
+2023-04-26 20:54:02,641 - Epoch:26/100,Train Accuracy:50.94130325317383%
+2023-04-26 20:54:47,356 - Epoch:27/100,Train Accuracy:51.44402313232422%
+2023-04-26 20:55:32,126 - Epoch:28/100,Train Accuracy:50.8372917175293%

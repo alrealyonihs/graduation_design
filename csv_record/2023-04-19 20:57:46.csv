@@ -1,0 +1,87 @@
+use:KNeighborsClassifier
+Num features: ,40
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+CV Accuracy: 0.50 (+/- 0.07)
+Test Accuracy: 0.50
+1: 0.5332586057976922 threshold: 0.49999999999999994
+CV Accuracy: 0.76 (+/- 0.11)
+Test Accuracy: 0.70
+2: 0.9315854853893111 threshold: 0.4
+CV Accuracy: 0.51 (+/- 0.07)
+Test Accuracy: 0.52
+3: 0.6289923428538154 threshold: 0.5000000000000001
+CV Accuracy: 0.54 (+/- 0.04)
+Test Accuracy: 0.51
+4: 0.5789297464116225 threshold: 0.5000000000000001
+CV Accuracy: 0.62 (+/- 0.06)
+Test Accuracy: 0.55
+5: 0.7137595714327307 threshold: 0.48133333333333317
+CV Accuracy: 0.57 (+/- 0.07)
+Test Accuracy: 0.51
+6: 0.5922933589542025 threshold: 0.4666666666666666
+CV Accuracy: 0.55 (+/- 0.06)
+Test Accuracy: 0.53
+7: 0.6320736405896682 threshold: 0.5000000000000001
+CV Accuracy: 0.58 (+/- 0.09)
+Test Accuracy: 0.56
+8: 0.6849846177735077 threshold: 0.5333333333333334
+CV Accuracy: 0.55 (+/- 0.07)
+Test Accuracy: 0.55
+9: 0.7305587096398521 threshold: 0.5333333333333333
+CV Accuracy: 0.59 (+/- 0.09)
+Test Accuracy: 0.57
+10: 0.7544035869217108 threshold: 0.5
+CV Accuracy: 0.60 (+/- 0.12)
+Test Accuracy: 0.61
+11: 0.8194990343649615 threshold: 0.5000000000000001
+CV Accuracy: 0.54 (+/- 0.06)
+Test Accuracy: 0.57
+12: 0.6783416310012519 threshold: 0.5
+CV Accuracy: 0.57 (+/- 0.05)
+Test Accuracy: 0.54
+13: 0.7099455556526044 threshold: 0.5333333333333333
+CV Accuracy: 0.56 (+/- 0.09)
+Test Accuracy: 0.53
+14: 0.643297328247979 threshold: 0.5
+CV Accuracy: 0.56 (+/- 0.07)
+Test Accuracy: 0.52
+15: 0.6059190031152648 threshold: 0.5000000000000001
+CV Accuracy: 0.52 (+/- 0.10)
+Test Accuracy: 0.53
+16: 0.631413709106084 threshold: 0.5333333333333333
+CV Accuracy: 0.52 (+/- 0.08)
+Test Accuracy: 0.51
+17: 0.5397414621364311 threshold: 0.5000000000000001
+CV Accuracy: 0.57 (+/- 0.08)
+Test Accuracy: 0.52
+18: 0.6706311080055511 threshold: 0.4666666666666666
+CV Accuracy: 0.59 (+/- 0.08)
+Test Accuracy: 0.55
+19: 0.7871575392319562 threshold: 0.5000000000000001
+CV Accuracy: 0.63 (+/- 0.19)
+Test Accuracy: 0.59
+20: 0.7969546103007541 threshold: 0.4333333333333334
+CV Accuracy: 0.53 (+/- 0.05)
+Test Accuracy: 0.55
+21: 0.6334565852427675 threshold: 0.5333333333333334
+CV Accuracy: 0.71 (+/- 0.12)
+Test Accuracy: 0.57
+22: 0.5865820401587718 threshold: 0.3
+CV Accuracy: 0.56 (+/- 0.04)
+Test Accuracy: 0.53
+23: 0.6235430556768664 threshold: 0.5000000000000001
+CV Accuracy: 0.56 (+/- 0.07)
+Test Accuracy: 0.56
+24: 0.672072281907202 threshold: 0.5
+CV Accuracy: 0.50 (+/- 0.10)
+Test Accuracy: 0.51
+25: 0.5530614027425976 threshold: 0.49999999999999994
+CV Accuracy: 0.51 (+/- 0.08)
+Test Accuracy: 0.53
+26: 0.6651478537669472 threshold: 0.49999999999999994
+CV Accuracy: 0.55 (+/- 0.05)
+Test Accuracy: 0.52
+27: 0.61366834561 threshold: 0.48571428571428565
+CV Accuracy: 0.60 (+/- 0.09)
+Test Accuracy: 0.58
+28: 0.8419609669937209 threshold: 0.5333333333333333

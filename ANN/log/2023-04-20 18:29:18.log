@@ -1,0 +1,8 @@
+2023-04-20 18:29:18,263 - lr:0.0001,weight_decay:0.1,batch_size:20
+2023-04-20 18:29:18,263 - FNN(
+  (input): Linear(in_features=39, out_features=64, bias=True)
+  (hidden): Linear(in_features=64, out_features=64, bias=True)
+  (output): Linear(in_features=64, out_features=2, bias=True)
+  (relu): ReLU()
+)
+2023-04-20 18:29:18,264 - This is for user0

@@ -1,0 +1,9 @@
+use:RandomForestClassifier
+Num features: ,40
+7
+CV Accuracy: 0.84 (+/- 0.22)
+Test Accuracy: 0.65
+precision: 0.69
+recall_score: 0.55
+F1_score: 0.61
+auc: 0.65

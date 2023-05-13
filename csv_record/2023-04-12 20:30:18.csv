@@ -1,0 +1,33 @@
+use:AdaBoostClassifier
+Num features: ,40
+7,9,12,15,16,20,21,23,29,35
+CV Accuracy: 0.85 (+/- 0.07)
+Test Accuracy: 0.87
+7: 1.0 threshold: 0.4981437484751017
+CV Accuracy: 0.94 (+/- 0.03)
+Test Accuracy: 0.94
+9: 1.0 threshold: 0.5109020983078956
+CV Accuracy: 0.70 (+/- 0.09)
+Test Accuracy: 0.71
+12: 0.9916829223318873 threshold: 0.5005611492201527
+CV Accuracy: 0.69 (+/- 0.10)
+Test Accuracy: 0.65
+15: 0.9755048961093156 threshold: 0.4982813529541257
+CV Accuracy: 0.64 (+/- 0.08)
+Test Accuracy: 0.66
+16: 0.9135683853999864 threshold: 0.49848775401910805
+CV Accuracy: 0.89 (+/- 0.09)
+Test Accuracy: 0.76
+20: 0.9973505691909046 threshold: 0.48697882054513725
+CV Accuracy: 0.70 (+/- 0.06)
+Test Accuracy: 0.70
+21: 0.9803573334886113 threshold: 0.49890271834481437
+CV Accuracy: 0.69 (+/- 0.10)
+Test Accuracy: 0.66
+23: 0.9232926699080949 threshold: 0.4976831766275834
+CV Accuracy: 0.74 (+/- 0.07)
+Test Accuracy: 0.73
+29: 0.9740200502712513 threshold: 0.49719899885447233
+CV Accuracy: 0.69 (+/- 0.08)
+Test Accuracy: 0.69
+35: 0.9781737366679284 threshold: 0.4982427912374476

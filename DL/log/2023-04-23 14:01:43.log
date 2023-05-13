@@ -1,0 +1,13 @@
+2023-04-23 14:01:43,820 - lr:0.01,weight_decay:0.01,batch_size:64
+2023-04-23 14:01:43,820 - CZHNet(
+  (linear1): Linear(in_features=33, out_features=32, bias=True)
+  (linear2): Linear(in_features=32, out_features=64, bias=True)
+  (linear3): Linear(in_features=64, out_features=64, bias=True)
+  (linear4): Linear(in_features=64, out_features=64, bias=True)
+  (linear5): Linear(in_features=64, out_features=32, bias=True)
+  (linear6): Linear(in_features=64, out_features=64, bias=True)
+  (linear7): Linear(in_features=64, out_features=64, bias=True)
+  (linear8): Linear(in_features=32, out_features=2, bias=True)
+  (relu): ReLU()
+)
+2023-04-23 14:01:43,821 - This is for user0
